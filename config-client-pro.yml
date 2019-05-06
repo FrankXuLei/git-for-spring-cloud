@@ -1,0 +1,5 @@
+server:
+  port: 9001
+name: frank
+age: 20
+desc: java spring cloud config server production version 1.0
