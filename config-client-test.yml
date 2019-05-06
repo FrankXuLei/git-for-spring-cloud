@@ -2,4 +2,4 @@ server:
   port: 9001
 name: frank
 age: 19
-desc: java spring cloud config server test version 1.0
+desc: java spring cloud config git server test version 1.0
