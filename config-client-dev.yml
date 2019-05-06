@@ -1,0 +1,5 @@
+server:
+  port: 9000
+name: frank
+age: 18
+desc: java spring cloud config server dev version 1.0
