@@ -1,5 +1,6 @@
 server:
-  port: 9001
-name: frank
-age: 20
-desc: java spring cloud config git server production version 2.0
+  port: 9000
+mysql: 192.168.199.102
+username: frank
+password: 1234production
+desc: Java spring cloud  microservice config git server production version 3.0
