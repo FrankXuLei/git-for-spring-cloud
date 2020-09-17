@@ -3,4 +3,4 @@ server:
 mysql: 192.168.199.101
 username: frank
 password: 1234qwer
-desc: Java spring cloud  microservice config git server dev version 3.0
+desc: Java spring cloud  microservice config git server test version 3.0
